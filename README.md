@@ -7,7 +7,7 @@
 
 All data taken from the city's nearest airport.
 
-If you want the source files, file size is about 30MB. Play with `weather.R`. Remember to set the correct directory using the `setwd()` command at the top of the code. **I would avoid using the code I used to scrape Wunderground**, mostly because:
+If you want the source files, file size is about 30MB. Play with `weather.R`. Remember to set the correct directory using the `setwd()` command at the top of the code. **I have not included the code I used to scrape Wunderground**, mostly because:
 
 * (a) it would probably tick off the website owner if I initiated a Hug of Death,
 * (b) the `.csv` files are already present so what's the point, 
