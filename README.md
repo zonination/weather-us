@@ -52,3 +52,7 @@ In addition to these plots, I was able to get some alternate plotting done:
 ## And finally...
 
 * [Proof that it's not always sunny in Philadelphia](http://i.imgur.com/WYOMxpD.png)
+
+## For International Version:
+
+[Click here](https://github.com/zonination/weather-intl/)
