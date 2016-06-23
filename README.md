@@ -53,6 +53,7 @@ In addition to these plots, I was able to get some alternate plotting done:
 
 * [Proof that it's not always sunny in Philadelphia](http://i.imgur.com/WYOMxpD.png)
 
-## For International Version:
+## Other Information:
 
-[Click here](https://github.com/zonination/weather-intl/)
+* For international version, [Click here](https://github.com/zonination/weather-intl/)
+* For Reddit thread, [Click here](https://np.reddit.com/r/dataisbeautiful/comments/46kjr6/a_tale_of_48_cities_the_the_daily_temperature_and/)
